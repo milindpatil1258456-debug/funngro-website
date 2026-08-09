@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://milindpatil1258456-debug.github.io/funngro-website/sitemap.xml
